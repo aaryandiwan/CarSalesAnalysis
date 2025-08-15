@@ -1,5 +1,5 @@
 hey everyone this is my new project.
-Car Dealership SQL + Python Project.
+Car Dealership sales SQL + Python Project.
 
 Contents:-
 
